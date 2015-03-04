@@ -4,5 +4,5 @@
 
 Just some stuff:
 
-- [Internet Time](https://en.wikipedia.org/wiki/Internet_time)
+- [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
 - [Garmin Connect IQ](http://developer.garmin.com/connect-iq/overview)
