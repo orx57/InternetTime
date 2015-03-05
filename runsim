@@ -1,5 +1,7 @@
 # Simple helper to start the application in the simulator
 
+export PATH=${PATH}:~/Documents/bin/connectiq/bin
+
 monkeyc -m manifest.xml -w -z resources/resources.xml -z resources/layouts/watch_face_layout.xml -o bin/InternetTime.prg source/InternetTimeApp.mc source/InternetTimeView.mc
 
 monkeysim &
