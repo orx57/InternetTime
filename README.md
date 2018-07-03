@@ -1,6 +1,10 @@
+![Project frozen](https://img.shields.io/badge/status-frozen-blue.png)
+
 # InternetTime
 
 **Swatch Internet Time (.Beats) Watch Face for Garmin Devices (Connect IQ).**
+
+A project for experimenting with Garmin Connect IQ.
 
 Just some stuff:
 
